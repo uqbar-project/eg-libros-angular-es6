@@ -1,0 +1,8 @@
+{
+  "name": "libros-angular",
+  "description": "Búsqueda de libros - client side en Angular",
+  "author": "",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
