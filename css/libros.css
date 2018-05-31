@@ -1,0 +1,18 @@
+.libros-logo {
+	max-width: 100px; 
+	margin-top: -7px;
+}
+
+.libros-busqueda {
+	margin-bottom: 20px;
+}
+
+.libros-btn-modificar {
+	color: white;
+	background-color: darkcyan;
+}
+
+.libros-btn-eliminar {
+	color: white;
+	background-color: crimson;
+}
